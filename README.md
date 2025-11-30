@@ -24,7 +24,7 @@ Clone o repositório e instale as dependências:
 npm install
 ```
 
-#2. Banco de Dados
+# 2. Banco de Dados
 Gere o arquivo do banco de dados (dev.db) e crie as tabelas baseadas no schema:
 
 bash
@@ -32,7 +32,7 @@ bash
 npx prisma migrate dev --name init
 
 
-#3. Execução
+# 3. Execução
 Inicie o servidor em modo de desenvolvimento:
 
 bash
